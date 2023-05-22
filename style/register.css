@@ -1,0 +1,15 @@
+.register_card{
+	max-width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.has_error{
+	color: #842029;
+}
+
+.has_error textarea, .has_error input, .has_error select{
+	color: #842029;
+	border-color: #842029;
+	background-color: #f8d7da;
+}
