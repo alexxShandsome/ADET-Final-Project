@@ -1,1 +1,20 @@
 # ADET-Final-Project
+
+## Dependencies
+* XAMPP
+* Bootstrap 5
+
+## MySql Database Setup
+```sql
+
+create database adet_final_project;
+use adet_final_project;
+
+create table registered_users(
+   user_id int not null,
+   user_name varchar(255) not null,
+   user_password text not null,
+   primary key(user_id)
+);
+
+```
