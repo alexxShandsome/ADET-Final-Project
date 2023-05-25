@@ -16,7 +16,10 @@
 	<body>
 		<!-- Navbar -->
 		<nav class="navbar sticky-top bg-light border-bottom border-3">
-			<div class="col-auto d-inline-flex justify-content-end ms-3">
+			<div class="d-flex justify-content-start ms-3">
+				<p>Tangina mo</p>
+			</div>
+			<div class="d-flex justify-content-end ms-3">
 				<a class="btn btn-danger rounded-pill me-3" href="./logout.php">
 					<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-power" viewBox="0 0 16 16">
 						<path d="M7.5 1v7h1V1h-1z"/>
