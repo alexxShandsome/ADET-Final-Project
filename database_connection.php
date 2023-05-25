@@ -1,9 +1,9 @@
 <?php
 	session_start();
-	echo "Session Info (For Debugging Purposes)";
-	echo '<pre>';
-	var_dump($_SESSION);
-	echo '</pre>';
+	// echo "Session Info (For Debugging Purposes)";
+	// echo '<pre>';
+	// var_dump($_SESSION);
+	// echo '</pre>';
 
 	// new database connection for memesite
 	$pdo = new PDO('mysql:host=localhost;port=3306;dbname=adet_final_project', 'root', '');
