@@ -82,7 +82,7 @@
 					<div class="col-md-12 rounded">
 						<div class="d-flex flex-row-reverse bd-highlight">
 							<div class="p-2 bd-highlight">
-								<a class="btn btn-success" href="./downloadables/Encryption.zip">
+								<a class="btn btn-success" href="https://github.com/alexxShandsome/ADET-Final-Project" target="_blank">
 									↓ Project Repository
 								</a>
 							</div>
