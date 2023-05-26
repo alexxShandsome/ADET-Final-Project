@@ -20,7 +20,7 @@ $user_info = isset($_SESSION['user_info']) ? $_SESSION['user_info'] : null;
 <body style="background-image: url('./img/bg.jpg'); background-repeat: no-repeat; background-size: cover;margin-top:10%">
     <nav>
         <div class="logo">
-            <a href="index.php">Hashermans</a>
+            <a href="landing.php">Hashermans</a>
         </div>
         <ul class="nav-links">
             <li><a href="landing.php">Home</a></li>
