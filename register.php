@@ -15,7 +15,7 @@
 		if (!isset($register_user_password) || strlen(trim($register_user_password)) == 0) $has_error = 1;
 	}
 
-	// Inert New User to Database
+	// Insert New User to Database
 	if(isset($_POST['submit']) && $has_error == 0){
 		register_user($pdo, $register_user_name, $register_user_password);
 
